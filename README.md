@@ -119,10 +119,12 @@ You pick what to expand. It only adds what you choose.
 3. Select the `.skill` file
 
 Once installed, trigger it by saying things like:
-- *"Help me present these slides"*
-- *"Prepare a script for my talk"*
-- *"What should I say for each slide?"*
-- Or just paste your slide code and draft notes
+- *"help me present these slides"*
+- *"what should I say for this slide"*
+- *"prepare a script for my talk"*
+- *"presentation notes"* / *"speaking notes"*
+- *"how do I explain this slide"*
+- pasting slide code + asking for speaking guidance
 
 ---
 
