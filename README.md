@@ -128,8 +128,6 @@ Once installed, trigger it by saying things like:
 
 ## Made with
 
-Skill designed by @Lillyakasiken with [Claude](https://claude.ai) by Anthropic. 
-
-Skill format by Anthropic.
+Skill designed by @Lillyakasiken with [Claude](https://claude.ai) by Anthropic. Skill format by Anthropic.
 
 Contributions and issues welcome.
