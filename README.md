@@ -37,3 +37,6 @@ Triggers on phrases like:
 - *"presentation notes"* / *"speaking notes"*
 - *"how do I explain this slide"*
 - pasting slide code + asking for speaking guidance
+
+***
+Built with [Claude](https://claude.ai) by Anthropic.
